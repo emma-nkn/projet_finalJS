@@ -1,0 +1,56 @@
+{
+    "conditions": [
+      {
+        "nom": "Thyroïde",
+        "imagesrc": "https://www.istockphoto.com/photo/sore-throat-woman-with-pain-in-neck-gray-background-gm931369150-255294505?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_photo_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ffr%2Fphotos%2Fsearch%2Fthyroide%2520maladie%2F&utm_term=thyroide+maladie",
+        "symptômes": [
+          "Fatigue",
+          "« Prise ou perte de poids »",
+          "Peau sèche",
+          "« Faiblesse musculaire »",
+          "« Règles menstruelles irrégulières »"
+        ],
+        "« prévention »" : [
+          "« Mangez équilibré »",
+          "« Faites de l’exercice régulièrement »",
+          "« Faites-vous examiner régulièrement »"
+        ],
+       " « traitement »" : "« Des médicaments comme la lévothyroxine peuvent être prescrits par un médecin. »"
+      },
+      {
+        "nom": "Diabète",
+        "imagesrc": "https://www.istockphoto.com/photo/taking-an-insulin-shot-at-home-gm1426368585-470598826?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_photo_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ffr%2Fphotos%2Fsearch%2Fdiab%25C3%25A8te%2520maladie%2F&utm_term=diab%C3%A8te+maladie",
+        "symptômes": [
+          "« Miction fréquente »",
+          "« Soif accrue »",
+          "Vision trouble",
+          "Fatigue",
+          "« Guérison lente des coupures ou des plaies »"
+        ],
+        "« prévention » ": [
+          "« Maintenir un poids santé »",
+          "« Suivre une alimentation équilibrée »",
+          "« Exercice régulier »"
+        ],
+        "Traitement" : "La prise en charge comprend des médicaments, une insulinothérapie et des changements de mode de vie. "
+      },
+      {
+        "nom": "Hypertension artérielle",
+        "imagesrc": "https://pixabay.com/fr/photos/appareil-de-pression-m%C3%A8tre-990462/",
+        "symptômes": [
+          "Maux de tête",
+          "Essoufflement",
+          "Douleur thoracique",
+          "Vertiges",
+          "Vision floue ou double"
+        ],
+        "« prévention »" : [
+          "« Réduire la consommation de sel »",
+          "« Faites de l’exercice régulièrement »",
+          "« Maintenir un poids santé »"
+        ],
+         "'traitement'" : "« Des médicaments comme des inhibiteurs de l’ECA ou des diurétiques peuvent être prescrits. »"
+      }
+    ]
+  }
+  
